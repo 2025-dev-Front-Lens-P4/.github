@@ -1,6 +1,6 @@
 # Développeurs Front End P4 🚀
 
-📍 ***Lens**, Hauts-de-France*
+📍 **\*Lens**, Hauts-de-France\*
 
 ## 💻 Les technologies utilisées
 
@@ -23,12 +23,14 @@
 
 ## 🚀 Nos réalisations
 
-| Briefs | Technologies | <a href="https://github.com/PandaaxDvlpt">Dimitri</a> | <a href="https://github.com/Maxeile">Maxime</a> | <a href="https://github.com/Drakane">Byron</a> | <a href="https://github.com/Llewenaa">Marie</a> | <a href="https://github.com/Pauline-13">Pauline</a> | <a href="https://github.com/Sirolbfr">Loris</a> | <a href="https://github.com/BouchartLaurine">Laurine</a> | <a href="https://github.com/bryanT062">Bryan</a> | <a href="https://github.com/arcanom">Rachel</a> | <a href="https://github.com/AlirezaAlavi7713">Alireza</a> | <a href="https://github.com/Tonny654">Tony</a> | <a href="https://github.com/sebastien-76">Sebastien</a> |
-| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [Exos_Github](https://github.com/2025-dev-Front-Lens-P4/Exos_Github) | ![img_html](./img/html.svg)&nbsp;![img_css](./img/css.svg)&nbsp; | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Exos_Algos](https://github.com/2025-dev-Front-Lens-P4/Exos_Algos) | ![img_html](./img/html.svg)&nbsp;![img_css](./img/css.svg)&nbsp;  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Briefs                                                               | Technologies                                                                      | [Dimitri](https://github.com/PandaaxDvlpt) | [Maxime](https://github.com/Maxeile) | [Byron](https://github.com/Drakane) | [Marie](https://github.com/Llewenaa) | [Pauline](https://github.com/Pauline-13) | [Loris](https://github.com/Sirolbfr) | [Laurine](https://github.com/BouchartLaurine) | [Bryan](https://github.com/bryanT062) | [Rachel](https://github.com/arcanom) | [Alireza](https://github.com/AlirezaAlavi7713) | [Tony](https://github.com/Tonny654) | [Sébastien](https://github.com/sebastien-76) | [Luigi](https://github.com/tuirz) | [Nassima](https://github.com/nasskconcept) | [Corentin](https://github.com/arcanom) |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------ | ----------------------------------- | ------------------------------------ | ---------------------------------------- | ------------------------------------ | --------------------------------------------- | ------------------------------------- | ------------------------------------ | ---------------------------------------------- | ----------------------------------- | -------------------------------------------- | --------------------------------- | ------------------------------------------ | -------------------------------------- |
+| [Exos GitHub](https://github.com/2025-dev-Front-Lens-P4/Exos_Github) | ![Git](./img/git.svg) ![HTML](./img/html.svg) ![CSS](./img/css.svg)               | ❌                                         | ❌                                   | ❌                                  | ❌                                   | ❌                                       | ❌                                   | ❌                                            | ❌                                    | ❌                                   | ❌                                             | ❌                                  | ❌                                           | ❌                                | ❌                                         | ❌                                     |
+| [Exos Algos](https://github.com/2025-dev-Front-Lens-P4/Exos_Algos)   | ![JavaScript](./img/javascript.svg) ![HTML](./img/html.svg) ![CSS](./img/css.svg) | ❌                                         | ❌                                   | ❌                                  | ❌                                   | ❌                                       | ❌                                   | ❌                                            | ❌                                    | ❌                                   | ❌                                             | ❌                                  | ❌                                           | ❌                                | ❌                                         | ❌                                     |
+
+---
 
 ## ✨ Auteurs, contributeurs
 
-* [Rémy Cottrez](https://github.com/RemyCTRZ)
-* [Yassen Abarji](https://github.com/yabarji59)
+- [Rémy Cottrez](https://github.com/RemyCTRZ)
+- [Yassen Abarji](https://github.com/yabarji59)

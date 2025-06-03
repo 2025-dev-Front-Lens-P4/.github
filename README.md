@@ -1,36 +1,42 @@
 # DEV-Front-P4-LENS-2025
 
-Formation de Développeur Front-End chez Simplon
+Formation **Développeur Front-End** chez **Simplon**
 
-📍 ***Lens**, Hauts-de-France*
+📍 _Lens, Hauts-de-France_
 
-## Les technologies utilisées
+---
+
+## 🛠️ Technologies utilisées
 
 &nbsp;&nbsp;
-![img_vscode](./img/vscode.svg)
+![VS Code](./profile/img/vscode.svg)
 &nbsp;&nbsp;
-![img_git](./img/git.svg)
+![Git](./profile/img/git.svg)
 &nbsp;&nbsp;
-![img_github](./img/github.svg)
+![GitHub](./profile/img/github.svg)
 &nbsp;&nbsp;
-![img_html](./img/html.svg)
+![HTML](./profile/img/html.svg)
 &nbsp;&nbsp;
-![img_css](./img/css.svg)
+![CSS](./profile/img/css.svg)
 &nbsp;&nbsp;
-![img_tailwind](./img/tailwind.svg)
+![Tailwind](./profile/img/tailwind.svg)
 &nbsp;&nbsp;
-![img_javascript](./img/javascript.svg)
+![JavaScript](./profile/img/javascript.svg)
 &nbsp;&nbsp;
-![img_strapi](./img/strapi.svg)
+![Strapi](./profile/img/strapi.svg)
 
-## Nos réalisations
+---
 
-| Briefs | Technologies | <a href="https://github.com/PandaaxDvlpt">Dimitri</a> | <a href="https://github.com/LaCageANicolas">Thomas</a> | <a href="https://github.com/Drakane">Byron</a> | <a href="https://github.com/oumaima-gaghou">Oumaima</a> | <a href="https://github.com/Pauline-13">Pauline</a> | <a href="https://github.com/Sirolbfr">Loris</a> | <a href="https://github.com/Fionacz">Fiona</a> | <a href="https://github.com/bryanT062">Bryan</a> | <a href="https://github.com/Audrey2046">Audrey</a> | <a href="https://github.com/AlirezaAlavi7713">Alireza</a> | <a href="https://github.com/Tonny654">Tony</a> |
-| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [Exos_Github](https://github.com/2025-dev-Front-Lens-P4/Exos_Github) | ![img_html](./img/html.svg)&nbsp;![img_css](./img/css.svg)&nbsp; | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Exos_Algos](https://github.com/2025-dev-Front-Lens-P4/Exos_Algos) | ![img_html](./img/html.svg)&nbsp;![img_css](./img/css.svg)&nbsp; | <a href="https://github.com/PandaaxDvlpt/brief1_DC/"> 🔗 </a> | <a href="https://github.com/LaCageANicolas/my_promo-TB"> 🔗 </a> | <a href="https://github.com/Drakane/my_promo-CB"> 🔗 </a> | <a href="https://github.com/oumaima-gaghou/my_promo-ag"> 🔗 </a> | <a href="https://github.com/Pauline-13My_promo-TP"> 🔗 </a> | <a href="https://github.com/Sirolbfr/my_promo-lb"> 🔗 </a> | <a href="https://github.com/Fionacz/my_promo_fc"> 🔗 </a> | <a href="https://github.com/bryanT062/my_promo-BT"> 🔗 </a> | <a href="https://github.com/Audrey2046"> 🔗 </a> | <a href="https://github.com/AlirezaAlavi7713"> 🔗 </a> | <a href="https://github.com/Tonny654/my_promo-TL"> 🔗 </a> | <a href="https://github.com/nasskconcept/MaPromo"> 🔗 </a> | <a href="https://github.com/SofiaB25/my_promo-sb"> 🔗 </a> | <a href="https://github.com/tuirz/mypromo-ls"> 🔗 </a> |
+## 🚀 Nos réalisations
 
-## Auteurs, contributeurs
+| Briefs                                                               | Technologies                                                                                              | [Dimitri](https://github.com/PandaaxDvlpt) | [Maxime](https://github.com/Maxeile) | [Byron](https://github.com/Drakane) | [Marie](https://github.com/Llewenaa) | [Pauline](https://github.com/Pauline-13) | [Loris](https://github.com/Sirolbfr) | [Laurine](https://github.com/BouchartLaurine) | [Bryan](https://github.com/bryanT062) | [Rachel](https://github.com/arcanom) | [Alireza](https://github.com/AlirezaAlavi7713) | [Tony](https://github.com/Tonny654) | [Sébastien](https://github.com/sebastien-76) | [Luigi](https://github.com/tuirz) | [Nassima](https://github.com/nasskconcept) | [Corentin](https://github.com/arcanom) |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------ | ----------------------------------- | ------------------------------------ | ---------------------------------------- | ------------------------------------ | --------------------------------------------- | ------------------------------------- | ------------------------------------ | ---------------------------------------------- | ----------------------------------- | -------------------------------------------- | --------------------------------- | ------------------------------------------ | -------------------------------------- |
+| [Exos GitHub](https://github.com/2025-dev-Front-Lens-P4/Exos_Github) | ![Git](./profile/img/git.svg) ![HTML](./profile/img/html.svg) ![CSS](./profile/img/css.svg)               | ❌                                         | ❌                                   | ❌                                  | ❌                                   | ❌                                       | ❌                                   | ❌                                            | ❌                                    | ❌                                   | ❌                                             | ❌                                  | ❌                                           | ❌                                | ❌                                         | ❌                                     |
+| [Exos Algos](https://github.com/2025-dev-Front-Lens-P4/Exos_Algos)   | ![JavaScript](./profile/img/javascript.svg) ![HTML](./profile/img/html.svg) ![CSS](./profile/img/css.svg) | ❌                                         | ❌                                   | ❌                                  | ❌                                   | ❌                                       | ❌                                   | ❌                                            | ❌                                    | ❌                                   | ❌                                             | ❌                                  | ❌                                           | ❌                                | ❌                                         | ❌                                     |
 
-* [Yassen Abarji](https://github.com/yabarji59)
-* [Rémy Cottrez](https://github.com/RemyCTRZ)
+---
+
+## 👨‍🏫 Auteurs & contributeurs
+
+- [Yassen Abarji](https://github.com/yabarji59)
+- [Rémy Cottrez](https://github.com/RemyCTRZ)
