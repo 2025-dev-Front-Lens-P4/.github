@@ -1,4 +1,4 @@
-# Développeurs Front End P4 🚀
+# Développeurs Front-End P4 🚀
 
 📍 **\*Lens**, Hauts-de-France\*
 
