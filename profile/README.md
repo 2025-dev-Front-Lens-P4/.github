@@ -1,6 +1,6 @@
 # Développeurs Front-End P4 🚀
 
-📍 **\*Lens**, Hauts-de-France\*
+📍 **Lens**, Hauts-de-France
 
 ## 💻 Les technologies utilisées
 
