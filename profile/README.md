@@ -38,7 +38,7 @@
 
 ---
 
-## Nos projets "fil rouge"
+## Le projet "fil rouge"
 
 &emsp;&emsp;[1️⃣ 🎨 Identité visuelle & maquettes](https://github.com/2025-dev-Front-Lens-P4/project-1)  
 
