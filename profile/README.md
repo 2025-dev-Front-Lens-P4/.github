@@ -38,6 +38,10 @@
 
 ---
 
+## Nos projets "fil rouge"
+
+&emsp;&emsp;[1️⃣ 🎨 Identité visuelle & maquettes](https://github.com/2025-dev-Front-Lens-P4/project-1)  
+
 ## ✨ Auteurs & contributeurs
 
 - [Rémy Cottrez](https://github.com/RemyCTRZ)
