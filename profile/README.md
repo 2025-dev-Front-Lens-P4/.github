@@ -41,6 +41,7 @@
 ## Le projet "fil rouge"
 
 &emsp;&emsp;[1️⃣ 🎨 Identité visuelle & maquettes](https://github.com/2025-dev-Front-Lens-P4/project-1)  
+&emsp;&emsp;&emsp;[2️⃣ ⚛️ Intégration web avec React](https://github.com/2025-dev-Front-Lens-P4/project-2)  
 
 ## ✨ Auteurs & contributeurs
 
