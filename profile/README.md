@@ -23,7 +23,7 @@
 &nbsp;&nbsp;
 ![Strapi](./img/strapi.svg)
 &nbsp;&nbsp;
-![NodeJS](./img/nodejs.png)
+![NodeJS](./img/nodejs.svg)
 
 ---
 
