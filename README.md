@@ -25,7 +25,7 @@ Formation **Développeur Front-End** chez **Simplon**
 &nbsp;&nbsp;
 ![Strapi](./profile/img/strapi.svg)
 &nbsp;&nbsp;
-![NodeJS](./profile/img/nodejs.svg)
+![NodeJS](./profile/img/nodejs.png)
 
 ---
 
