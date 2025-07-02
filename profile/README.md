@@ -23,6 +23,8 @@
 &nbsp;&nbsp;
 ![Strapi](./img/strapi.svg)
 &nbsp;&nbsp;
+![React](./img/react.svg)
+&nbsp;&nbsp;
 <img src="./img/nodejs.svg" width="24" alt="node Logo" />
 
 ---
