@@ -25,7 +25,7 @@
 &nbsp;&nbsp;
 <img src="./img/nodejs.svg" width="24" alt="node Logo" />
 &nbsp;&nbsp;
-<img src="./img/react.png" width="24" alt="react Logo" />
+![React](./img/react.png)
 
 ---
 
